@@ -1,3 +1,4 @@
 pandas
 ntlk
+TextBlob
 matplotlib
