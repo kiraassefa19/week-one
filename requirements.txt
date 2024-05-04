@@ -1,4 +1,4 @@
 pandas
-ntlk
+nltk
 matplotlib
 scikit-learn
